@@ -11,6 +11,8 @@ int main (void)
       calcul* calcul3= new calcul();
       std::cout<< calcul3->division(9,7)<< std::endl;
 
+      
+
 
 
 
