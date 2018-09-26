@@ -4,9 +4,9 @@
 *\version
 */
 
+
 #pragma once
 
-class calcul
 
 
 /*!\class calcul
@@ -15,7 +15,7 @@ class calcul
 *
 *
 */
-
+class calcul
 
 {
        public:
@@ -36,10 +36,17 @@ class calcul
 */
 
               int multiplication (int nombre_3, int nombre_4);
-
+/*!\brief
+*\param e description...
+*\return
+*/
 
               int division (int nombre_5, int nombre_6);
 
+/*!\brief
+*\param f description...
+*\return
+*/
 
 
 
